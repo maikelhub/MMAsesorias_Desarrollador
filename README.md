@@ -1,4 +1,4 @@
-# MMAsesorias_Desarrollador
+# Postulacion_Desarrollador
 Postulación al cargo Desarrollador C/C++ - Linux
 
 Adjunto solución de proyecto en Visual Studio 2019.
